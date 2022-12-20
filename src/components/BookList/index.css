@@ -1,0 +1,20 @@
+.table {
+    border:1px solid grey;
+    margin: 50px auto;
+    border-collapse:collapse;
+
+}
+
+th,td{
+    border:1px solid grey;
+    padding: 10px;
+}
+
+thead{
+    font-weight: 700;
+}
+
+.selectBook{
+    cursor: pointer;
+    text-decoration:underline;
+}
